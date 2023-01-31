@@ -1,6 +1,4 @@
-[![MasterHead](github-header-image.png)]
-
-<img align="right" alt="Coding" width="400" src="">
+![MasterHead](github-header-image.png)
 
 - 🔭 I’m currently working on [abc project](https://google.com)
 
