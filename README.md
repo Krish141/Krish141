@@ -13,8 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/Krish141) <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Few of them are - <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Covid Analysis Project** using [SQL Server](https://github.com/Krish141/Sql-Projects/tree/master/Covid)<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **HR Data Analytics** using [Power BI](https://github.com/Krish141/PowerBi-projects/tree/master/HR%20Dashboard)
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + **Covid Analysis Project** using [SQL Server](https://github.com/Krish141/Sql-Projects/tree/master/Covid)<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + **HR Data Analytics** using [Power BI](https://github.com/Krish141/PowerBi-projects/tree/master/HR%20Dashboard)
 
 - 💬 Ask me about **Data, PowerBi, SQL Server**
 
