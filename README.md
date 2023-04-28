@@ -6,7 +6,7 @@
 
 <!--- 👯 I’m looking to collaborate on **open source project**-->
 
-- 🤝 I’m looking for opportunities to work with **Data**
+- 🤝 I’m actively looking for opportunities to use my skills in  **Right Organization**
 
 - 👨‍💻 All of my projects are available at [https://google.com](https://google.com)
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **krishan.sharma1419@gmail.com**
 
-- ⚡ Fun fact **abc**
+<!--- ⚡ Fun fact **abc**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
