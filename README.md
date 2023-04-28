@@ -12,7 +12,8 @@
 <!--- 👨‍💻 All of my projects are available at [https://google.com](https://google.com)-->
 
 - 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/Krish141) <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can check my Covid Analysis project using SQL Server [here](https://github.com/Krish141/Sql-Projects/tree/master/Covid)
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Few of them are -<br>
+      **Covid Analysis Project** using [SQL Server](https://github.com/Krish141/Sql-Projects/tree/master/Covid)
 
 - 💬 Ask me about **Data, PowerBi, SQL Server**
 
