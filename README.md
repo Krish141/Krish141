@@ -11,7 +11,7 @@
 
 <!--- 👨‍💻 All of my projects are available at [https://google.com](https://google.com)-->
 
-- 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/Krish141) <br>
+- 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/Krish141) 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Few of them are -
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <ul>
       <li> **Covid Analysis Project** using [SQL Server](https://github.com/Krish141/Sql-Projects/tree/master/Covid)</li>
