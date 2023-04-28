@@ -4,9 +4,10 @@
 
 - 🌱 I’m currently learning **Python, DAX**
 
-<!--- 👯 I’m looking to collaborate on **open source project**-->
+<!--- 👯 I’m looking to collaborate on **open source project**
+- 🤝 I’m actively looking for opportunities to use my skills in  **Right Organization** -->
 
-- 🤝 I’m actively looking for opportunities to use my skills in  **Right Organization**
+- 🤝 "I'm actively **seeking opportunities** to utilize my skills and make meaningful contributions as a data analyst with expertise in Power BI and SQL 
 
 - 👨‍💻 All of my projects are available at [https://google.com](https://google.com)
 
