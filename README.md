@@ -1,6 +1,6 @@
 ![MasterHead](github-header-image.png)
 
-- 🔭 I’m currently working on [abc project](https://google.com)
+- 🔭 I’m currently working on Maven Pizza Challenge (https://www.mavenanalytics.io/blog/maven-pizza-challenge)
 
 - 🌱 I’m currently learning **Power Bi, DAX**
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://google.com](https://google.com)
 
-- 💬 Ask me about **Data, PowerBi**
+- 💬 Ask me about **Data, PowerBi, SQL Server**
 
 - 📫 How to reach me **krishan.sharma1419@gmail.com**
 
