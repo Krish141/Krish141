@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on Maven Pizza Challenge (https://www.mavenanalytics.io/blog/maven-pizza-challenge)
 
-- 🌱 I’m currently learning **Power Bi, DAX**
+- 🌱 I’m currently learning **Python, DAX**
 
-- 👯 I’m looking to collaborate on **open source project**
+<!--- 👯 I’m looking to collaborate on **open source project**-->
 
-- 🤝 I’m looking for help with **xyz**
+- 🤝 I’m looking for opportunities to work with **Data**
 
 - 👨‍💻 All of my projects are available at [https://google.com](https://google.com)
 
