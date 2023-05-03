@@ -1,6 +1,6 @@
 ![MasterHead](github-header-image.png)
 
-- 🔭 I’m currently working on [Maven Pizza Challenge](https://www.mavenanalytics.io/blog/maven-pizza-challenge)
+- 🔭 I’m currently working on [Maven Pizza Challenge](https://github.com/Krish141/PowerBi-projects/tree/master/Plato's%20Pizza%20(Operational%20Review))
 
 - 🌱 I’m currently learning **Python, DAX**
 
